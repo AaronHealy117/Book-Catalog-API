@@ -1,0 +1,4 @@
+com\mycompany\CA2_API\BookResource\BookResource.class
+com\mycompany\CA2_API\BookService\BookService.class
+com\mycompany\CA2_API\model\Book.class
+com\mycompany\CA2_API\main\Main.class
